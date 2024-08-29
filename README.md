@@ -61,7 +61,7 @@ Make sure you have the following installed:
 
 ![React TodoList Preview](ss.png)
 
-> **Note:** Replace `path/to/your/image.png` with the actual path to your image file in the repository.
+
 
 ## Features
 
