@@ -7,7 +7,7 @@ This is a CRUD application built with React.js to manage a todo list. You can ad
 
 ## Live Demo
 
-Check out the live demo of the application: [React TodoList on Netlify](https://subbu44-react-todo.netlify.app/)
+Check out the live demo of the application: [React Netlify LINK](https://subbu44-react-todo.netlify.app/)
 
 ## Getting Started
 
